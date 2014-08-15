@@ -13,40 +13,40 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/templates/pt/_header.php');
 			<h1><?php echo "$PageName";?></h1>
 			
 			<h2>Legal Status</h2>
-			<p>The openEHR Foundation is currently a not-for-profit company, limited by guarantee. Its founders were University College London, UK and Ocean Informatics Pty Ltd, Australia. It is regulated under the UK Companies Acts 1985 and 1989. The name 'openEHR' has been registered internationally as a Trade Mark.</p>
-			<p>As part of the new governance, the Foundation will be recreated as a new not-for-profit company, possibly in the form of a <a href="http://en.wikipedia.org/wiki/Community_Interest_Company" target="_blank">UK Community Interest Company</a>, or else in the form of a Private company limited by guarantee (the same as the current form), commonly used for non-profits in the UK. The new organisation will be created by consultation  of the interim board and prospective organisational members.</p>
+			<p> A fundação openEHR é, no momento, uma sociedade limitada sem fins lucrativos. Seus fundadores foram a University College London, do Reino Unido e a empresa australiana Ocean Informatics. Ela está sob regulação das leis de companhias de 1985 e 1989 do Reino Unido. O nome openEHR é marca registrada internacional da Fundação.</p>
+			<p> Como parte do novo modelo de governança, a Fundação será recriada como uma nova organização sem fins lucrativos, possivelmente na forma de uma Empresa Social ou uma sociedade limitada sem fins lucrativos (o mesmo tipo de organização atual),,forma comumente utilizada para sociedades sem fins lucrativos no Reino Unido. A nova organização será criada através de consulta à diretoria interina e potencials membros futuros da organização.</p>
 			
 			
-			<h2>openEHR Vision</h2>
-			<p>The openEHR Foundation vision is of a world in which healthcare routinely obtains benefit from ICT, in particular:</p>
+			<h2> Visão  da FundaçãoopenEHR</h2>
+			<p>A visão da Fundação openEHR é de um mundo onde o sistema de saúde se beneficia rotineiramente das Tecnologias de Informação e Comunicação e em particular de :</p>
 			<ul>
-				<li>life-long interoperable electronic health records (EHRs);</li>
-				<li>computing on EHRs to improve the quality of health care and research.</li>
+				<li> registros eletrônicos longituninais eletrônicos (RESs);</li>
+				<li>computação dos dados dos RESs para melhorar a qualidade da atenção e da pesquisa em saúde./li>
 			</ul>
 			
 			
-			<h2>openEHR Mission</h2>
-			<p>The Foundation is proceeding on the basis of three principles: rigour, engagement and trust. These correspond to the key activities of the Foundation, organised under the four Programs:</p>
+			<h2>Missão openEHR</h2>
+			<p>A Fundação atua em cima de três princípios basilares: rigor, engajamento e confiança. Esses princípios correspondem ás atividade chave da Fundação, organizadas dentro de seus quatro Programas:</p>
 			<ul>
-				<li><a href="/pt/programs/specification/">Specification Program</a>:
+				<li><a href="/pt/programas/especificações/">Programa de Especificações</a>:
 					<ul>
-						<li>developing rigorous, open specifications, validated by implementation;</li>
-						<li>participating in international standards development;</li>
+						<li>desenvolvimento de especificações abertas rigorosas, validadas pela implantação;</li>
+						<li>participação no desenvolvimento de padrões internacionais;</li>
 					</ul>
 				</li>
-				<li><a href="/pt/programs/clinicalmodels/">Clinical Models Program</a>: 
+				<li><a href="/pt/programas/modelosclinicos/"> Programa de Modelos Clínicos</a>: 
 					<ul>
-						<li>developing clinical models (archetypes and templates), terminology interfaces;</li>
-						<li>engaging in clinical implementation projects;</li>
+						<li>desenvolvimento de modelos clínicos (arquétipos e templates), interfaces de terminologia;</li>
+						<li>engajamento de projetos de implantação de sistemas de informação clínicos;</li>
 					</ul>
 				</li>
-				<li><a href="/pt/programs/software/">Software Program</a>: 
+				<li><a href="/pt/programas/software/"> Programa de Aplicações</a>: 
 					<ul>
-						<li>developing open-source software and tools;</li>
-						<li>participating in connectathons and implementation trials;</li>
+						<li>desenvolvimento de ferramentas e aplicações de código livre;</li>
+						<li>participação em connectathons and  testes de implantação</li>
 					</ul>
 				</li>
-				<li><a href="/pt/programs/localisation/">Localisation Program</a>: 
+				<li><a href="/pt/programas/localização/"> Programa de Localização</a>: 
 					<ul>
 						<li>advocacy and locale-based education and dissemination;</li>
 						<li>working with national standards organisations;</li>
